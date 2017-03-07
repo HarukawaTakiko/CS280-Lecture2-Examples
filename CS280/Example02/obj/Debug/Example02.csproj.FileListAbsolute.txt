@@ -1,0 +1,6 @@
+D:\Csharp_20170307\CS280\Example02\bin\Debug\Example02.exe.config
+D:\Csharp_20170307\CS280\Example02\bin\Debug\Example02.exe
+D:\Csharp_20170307\CS280\Example02\bin\Debug\Example02.pdb
+D:\Csharp_20170307\CS280\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+D:\Csharp_20170307\CS280\Example02\obj\Debug\Example02.exe
+D:\Csharp_20170307\CS280\Example02\obj\Debug\Example02.pdb

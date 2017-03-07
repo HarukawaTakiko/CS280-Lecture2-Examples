@@ -1,0 +1,5 @@
+D:\Csharp_20170307\CS280\Example01\bin\Debug\Example01.exe.config
+D:\Csharp_20170307\CS280\Example01\bin\Debug\Example01.exe
+D:\Csharp_20170307\CS280\Example01\bin\Debug\Example01.pdb
+D:\Csharp_20170307\CS280\Example01\obj\Debug\Example01.exe
+D:\Csharp_20170307\CS280\Example01\obj\Debug\Example01.pdb
